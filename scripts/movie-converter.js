@@ -11,7 +11,7 @@
 // -Finally, we return the movieHTML string containing the generated HTML markup for all the movies.
 
 
-import { movies } from './movies-data.js';
+import { movies } from './movie-data.js';
 
 export const generateMoviesHTML = () => {
    let movieHTML = '';
